@@ -1,0 +1,366 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fake LMS Test Feed//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Canvas Calendar (fake)
+BEGIN:VEVENT
+UID:event-assignment-0001@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261025T065900Z
+SUMMARY:Week 6 Response: Research in PBS [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/900
+URL:https://canvas.fake-u.example/calendar?event_id=4000&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0002@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261101T065900Z
+SUMMARY:Week 7 Response: Getting Involved in Research in PBS [PSYCH 103 (17
+ 2401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/901
+URL:https://canvas.fake-u.example/calendar?event_id=4001&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0003@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261108T065900Z
+SUMMARY:Week 8 Response: Spring Registration Prep [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/902
+URL:https://canvas.fake-u.example/calendar?event_id=4002&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0004@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261115T065900Z
+SUMMARY:Week 9 Response: Careers in Psychology [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/903
+URL:https://canvas.fake-u.example/calendar?event_id=4003&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0005@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261122T065900Z
+SUMMARY:Week 10 Response: Specialization Programs in PBS and Beyond [PSYCH 
+ 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/904
+URL:https://canvas.fake-u.example/calendar?event_id=4004&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0006@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261129T065900Z
+SUMMARY:Week 11 Response: Looking Ahead: Internships\, TAs\, and More [PSYC
+ H 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/905
+URL:https://canvas.fake-u.example/calendar?event_id=4005&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0007@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:Reading Check 1 [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/906
+URL:https://canvas.fake-u.example/calendar?event_id=4006&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0008@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261031T065900Z
+SUMMARY:Reading Check 2 [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/907
+URL:https://canvas.fake-u.example/calendar?event_id=4007&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0009@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261109T065900Z
+SUMMARY:Reading Check 3 [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/908
+URL:https://canvas.fake-u.example/calendar?event_id=4008&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0010@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261118T065900Z
+SUMMARY:Reading Check 4 [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/909
+URL:https://canvas.fake-u.example/calendar?event_id=4009&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0011@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261108T065900Z
+SUMMARY:Midterm Reflection [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/910
+URL:https://canvas.fake-u.example/calendar?event_id=4010&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0012@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261128T065900Z
+SUMMARY:Final Paper Draft [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/911
+URL:https://canvas.fake-u.example/calendar?event_id=4011&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0013@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261205T065900Z
+SUMMARY:Final Paper [PSYCH 103 (172401) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/172401/
+ assignments/912
+URL:https://canvas.fake-u.example/calendar?event_id=4012&include_contexts=c
+ ourse_172401
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0014@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Essay 1 Draft [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/913
+URL:https://canvas.fake-u.example/calendar?event_id=4013&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0015@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261030T065900Z
+SUMMARY:Essay 1 Final [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/914
+URL:https://canvas.fake-u.example/calendar?event_id=4014&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0016@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261106T065900Z
+SUMMARY:Essay 2 Draft [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/915
+URL:https://canvas.fake-u.example/calendar?event_id=4015&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0017@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261113T065900Z
+SUMMARY:Essay 2 Final [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/916
+URL:https://canvas.fake-u.example/calendar?event_id=4016&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0018@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261120T065900Z
+SUMMARY:Essay 3 Draft [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/917
+URL:https://canvas.fake-u.example/calendar?event_id=4017&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0019@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261127T065900Z
+SUMMARY:Essay 3 Final [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/918
+URL:https://canvas.fake-u.example/calendar?event_id=4018&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0020@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261021T065900Z
+SUMMARY:Discussion 1: Poetry [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/919
+URL:https://canvas.fake-u.example/calendar?event_id=4019&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0021@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261031T065900Z
+SUMMARY:Discussion 2: Short Stories [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/920
+URL:https://canvas.fake-u.example/calendar?event_id=4020&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0022@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261110T065900Z
+SUMMARY:Discussion 3: Drama [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/921
+URL:https://canvas.fake-u.example/calendar?event_id=4021&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0023@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261120T065900Z
+SUMMARY:Discussion 4: The Novel [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/922
+URL:https://canvas.fake-u.example/calendar?event_id=4022&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0024@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261028T065900Z
+SUMMARY:Peer Review #1 [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/923
+URL:https://canvas.fake-u.example/calendar?event_id=4023&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0025@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261111T065900Z
+SUMMARY:Peer Review #2 [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/924
+URL:https://canvas.fake-u.example/calendar?event_id=4024&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0026@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261218T065900Z
+SUMMARY:Essay Draft [ENG 220 (170550) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/170550/
+ assignments/925
+URL:https://canvas.fake-u.example/calendar?event_id=4025&include_contexts=c
+ ourse_170550
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0027@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Primary Source Analysis 1 [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/926
+URL:https://canvas.fake-u.example/calendar?event_id=4026&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0028@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261105T065900Z
+SUMMARY:Primary Source Analysis 2 [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/927
+URL:https://canvas.fake-u.example/calendar?event_id=4027&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0029@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261117T065900Z
+SUMMARY:Primary Source Analysis 3 [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/928
+URL:https://canvas.fake-u.example/calendar?event_id=4028&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0030@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261107T065900Z
+SUMMARY:Unit 2 Test [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/929
+URL:https://canvas.fake-u.example/calendar?event_id=4029&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0031@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261126T065900Z
+SUMMARY:Unit 3 Test [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/930
+URL:https://canvas.fake-u.example/calendar?event_id=4030&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0032@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261027T065900Z
+SUMMARY:Map Quiz [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/931
+URL:https://canvas.fake-u.example/calendar?event_id=4031&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0033@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261029T065900Z
+SUMMARY:HW5 [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/932
+URL:https://canvas.fake-u.example/calendar?event_id=4032&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0034@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:HW 4 [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/933
+URL:https://canvas.fake-u.example/calendar?event_id=4033&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:event-assignment-0035@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261118T065900Z
+SUMMARY:Extra Credit [Draft] [HIST 110 (171226) FA26]
+DESCRIPTION:Submit online.\n\nhttps://canvas.fake-u.example/courses/171226/
+ assignments/934
+URL:https://canvas.fake-u.example/calendar?event_id=4034&include_contexts=c
+ ourse_171226
+END:VEVENT
+BEGIN:VEVENT
+UID:evt-0036@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:Syllabus Quiz
+DESCRIPTION:General.
+END:VEVENT
+END:VCALENDAR
