@@ -1,0 +1,374 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fake LMS Test Feed//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Edge Case Stress Test (fake)
+BEGIN:VEVENT
+UID:edge-0001@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:Oct 20 - Attendance [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=0&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0002@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:October 27 Attendance [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=1&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0003@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:Attendance - Nov 3 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=2&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0004@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:Attendance (Nov 10) [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=3&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0005@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:17 Nov Attendance [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=4&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0006@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:2026-11-24 Attendance [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=5&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0007@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:Attendance 2026-12-01 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=6&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0008@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261020T065900Z
+SUMMARY:Attendance - Dec 8th\, 2026 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=7&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0009@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261021T065900Z
+SUMMARY:Module 1: Reading [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=8&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0010@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Module 2: Quiz [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=9&include_contexts=cour
+ se_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0011@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261025T065900Z
+SUMMARY:Module 3: Reading [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=10&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0012@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261027T065900Z
+SUMMARY:Module 4: Quiz [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=11&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0013@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261029T065900Z
+SUMMARY:Module 5: Reading [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=12&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0014@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261031T065900Z
+SUMMARY:Module 6: Quiz [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=13&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0015@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:Quiz on Photosynthesis [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=14&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0016@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:Quiz on the Renaissance [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=15&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0017@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:Quiz Corrections [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=16&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0018@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:Pop Quiz [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=17&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0019@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:Quiz Bowl Signup [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=18&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0020@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Chapter 3 Summary [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=19&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0021@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Chapter 3 Test [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=20&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0022@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Project 1 Proposal [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=21&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0023@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Project 1 Final [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=22&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0024@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:class prep 1 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=23&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0025@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Class Prep  2 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=24&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0026@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:CLASS PREP 3 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=25&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0027@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Lab 3 - Cells [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=26&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0028@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Lab 4 - Genetics [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=27&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0029@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Problem Set 1: Limits [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=28&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0030@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Problem Set 2: Derivatives [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=29&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0031@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Reading Response (Ch 4) [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=30&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0032@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Reading Response (Ch 5) [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=31&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0033@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Read 7th Edition [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=32&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0034@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Read 8th Edition [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=33&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0035@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Lab Report #3 - Osmosis [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=34&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0036@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Lab Report #4 - Diffusion [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=35&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0037@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261025T065900Z
+SUMMARY:Reading Response: Moon [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=36&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0038@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261025T065900Z
+SUMMARY:Reading Response: Mars [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=37&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0039@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261025T065900Z
+SUMMARY:Reading Response: Venus [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=38&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0040@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261026T065900Z
+SUMMARY:Part I [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=39&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0041@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261026T065900Z
+SUMMARY:Part II [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=40&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0042@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261026T065900Z
+SUMMARY:Part III [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=41&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0043@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261026T065900Z
+SUMMARY:Assignment A [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=42&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0044@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261026T065900Z
+SUMMARY:Assignment B [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=43&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0045@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261027T065900Z
+SUMMARY:Survey Fall 2026 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=44&include_contexts=cou
+ rse_424242
+END:VEVENT
+BEGIN:VEVENT
+UID:edge-0046@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261027T065900Z
+SUMMARY:Survey Spring 2027 [TEST 100]
+URL:https://canvas.fake-u.example/calendar?event_id=45&include_contexts=cou
+ rse_424242
+END:VEVENT
+END:VCALENDAR

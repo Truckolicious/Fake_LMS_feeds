@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fake LMS Test Feed//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Moodle Calendar (fake)
+BEGIN:VEVENT
+UID:moodle-0001@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Lab Report 1 is due
+DESCRIPTION:Lab Report 1 is due\nCourse: Introduction to Psychology
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=101
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0002@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261027T065900Z
+SUMMARY:Lab Report 2 is due
+DESCRIPTION:Lab Report 2 is due\nCourse: Introduction to Psychology
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=102
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0003@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261031T065900Z
+SUMMARY:Lab Report 3 is due
+DESCRIPTION:Lab Report 3 is due\nCourse: Introduction to Psychology
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=103
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0004@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261104T065900Z
+SUMMARY:Lab Report 4 is due
+DESCRIPTION:Lab Report 4 is due\nCourse: Introduction to Psychology
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=104
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0005@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261108T065900Z
+SUMMARY:Lab Report 5 is due
+DESCRIPTION:Lab Report 5 is due\nCourse: Introduction to Psychology
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=105
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0006@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Quiz 1 closes
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/quiz/view.php?id=201
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0007@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261029T065900Z
+SUMMARY:Quiz 2 closes
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/quiz/view.php?id=202
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0008@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261103T065900Z
+SUMMARY:Quiz 3 closes
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/quiz/view.php?id=203
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0009@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261108T065900Z
+SUMMARY:Quiz 4 closes
+CATEGORIES:Introduction to Psychology
+URL:https://moodle.fake-u.example/mod/quiz/view.php?id=204
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0010@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261021T065900Z
+SUMMARY:Forum: Introduce Yourself closes
+CATEGORIES:Introduction to Psychology
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0011@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261025T065900Z
+SUMMARY:Problem Set 1 is due
+CATEGORIES:BIO 101 Cell Biology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=301
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0012@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261031T065900Z
+SUMMARY:Problem Set 2 is due
+CATEGORIES:BIO 101 Cell Biology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=302
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0013@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261106T065900Z
+SUMMARY:Problem Set 3 is due
+CATEGORIES:BIO 101 Cell Biology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=303
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0014@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261112T065900Z
+SUMMARY:Problem Set 4 is due
+CATEGORIES:BIO 101 Cell Biology
+URL:https://moodle.fake-u.example/mod/assign/view.php?id=304
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0015@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261112T065900Z
+SUMMARY:Midterm Exam closes
+CATEGORIES:BIO 101 Cell Biology
+END:VEVENT
+BEGIN:VEVENT
+UID:moodle-0016@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261210T065900Z
+SUMMARY:Final Exam closes
+CATEGORIES:BIO 101 Cell Biology
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fake LMS Test Feed//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Schoology Calendar (fake)
+BEGIN:VEVENT
+UID:sch-0001@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261022T065900Z
+SUMMARY:Ch 3 Worksheet (Algebra II - Period 2)
+URL:https://app.fake-schoology.example/assignment/5501
+END:VEVENT
+BEGIN:VEVENT
+UID:sch-0002@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261025T065900Z
+SUMMARY:Ch 4 Worksheet (Algebra II - Period 2)
+URL:https://app.fake-schoology.example/assignment/5502
+END:VEVENT
+BEGIN:VEVENT
+UID:sch-0003@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261028T065900Z
+SUMMARY:Ch 5 Worksheet (Algebra II - Period 2)
+URL:https://app.fake-schoology.example/assignment/5503
+END:VEVENT
+BEGIN:VEVENT
+UID:sch-0004@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261031T065900Z
+SUMMARY:Ch 6 Worksheet (Algebra II - Period 2)
+URL:https://app.fake-schoology.example/assignment/5504
+END:VEVENT
+BEGIN:VEVENT
+UID:sch-0005@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261103T065900Z
+SUMMARY:Ch 7 Worksheet (Algebra II - Period 2)
+URL:https://app.fake-schoology.example/assignment/5505
+END:VEVENT
+BEGIN:VEVENT
+UID:sch-0006@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261023T065900Z
+SUMMARY:Lab 1 Write-up (Biology - Period 5)
+URL:https://app.fake-schoology.example/assignment/5601
+END:VEVENT
+BEGIN:VEVENT
+UID:sch-0007@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261027T065900Z
+SUMMARY:Lab 2 Write-up (Biology - Period 5)
+URL:https://app.fake-schoology.example/assignment/5602
+END:VEVENT
+BEGIN:VEVENT
+UID:sch-0008@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261031T065900Z
+SUMMARY:Lab 3 Write-up (Biology - Period 5)
+URL:https://app.fake-schoology.example/assignment/5603
+END:VEVENT
+END:VCALENDAR

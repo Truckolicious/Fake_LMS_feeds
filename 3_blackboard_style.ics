@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Fake LMS Test Feed//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Blackboard Calendar (fake)
+BEGIN:VEVENT
+UID:_bb-0001@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261024T065900Z
+SUMMARY:Homework 1
+DESCRIPTION:Course: CHEM 201 - General Chemistry\nDue by 11:59 PM
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55021_1&co
+ ntent_id=_701_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0002@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261029T065900Z
+SUMMARY:Homework 2
+DESCRIPTION:Course: CHEM 201 - General Chemistry\nDue by 11:59 PM
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55021_1&co
+ ntent_id=_702_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0003@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261103T065900Z
+SUMMARY:Homework 3
+DESCRIPTION:Course: CHEM 201 - General Chemistry\nDue by 11:59 PM
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55021_1&co
+ ntent_id=_703_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0004@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261108T065900Z
+SUMMARY:Homework 4
+DESCRIPTION:Course: CHEM 201 - General Chemistry\nDue by 11:59 PM
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55021_1&co
+ ntent_id=_704_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0005@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261113T065900Z
+SUMMARY:Homework 5
+DESCRIPTION:Course: CHEM 201 - General Chemistry\nDue by 11:59 PM
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55021_1&co
+ ntent_id=_705_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0006@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261027T065900Z
+SUMMARY:Written HW 1 in Gradescope
+DESCRIPTION:Course: MATH 250 - Linear Algebra\nSubmit in Gradescope
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55377_1&co
+ ntent_id=_801_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0007@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261029T065900Z
+SUMMARY:Programming HW 1
+DESCRIPTION:Course: MATH 250 - Linear Algebra\nSubmit in Gradescope
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55377_1&co
+ ntent_id=_851_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0008@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261103T065900Z
+SUMMARY:Written HW 2 in Gradescope
+DESCRIPTION:Course: MATH 250 - Linear Algebra\nSubmit in Gradescope
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55377_1&co
+ ntent_id=_802_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0009@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261105T065900Z
+SUMMARY:Programming HW 2
+DESCRIPTION:Course: MATH 250 - Linear Algebra\nSubmit in Gradescope
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55377_1&co
+ ntent_id=_852_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0010@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261110T065900Z
+SUMMARY:Written HW 3 in Gradescope
+DESCRIPTION:Course: MATH 250 - Linear Algebra\nSubmit in Gradescope
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55377_1&co
+ ntent_id=_803_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0011@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261112T065900Z
+SUMMARY:Programming HW 3
+DESCRIPTION:Course: MATH 250 - Linear Algebra\nSubmit in Gradescope
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55377_1&co
+ ntent_id=_853_1
+END:VEVENT
+BEGIN:VEVENT
+UID:_bb-0012@fake-lms.example
+DTSTAMP:20261016T000000Z
+DTSTART:20261113T065900Z
+SUMMARY:Midterm
+DESCRIPTION:Course: CHEM 201 - General Chemistry
+URL:https://bb.fake-u.example/webapps/assessment/take?course_id=_55021_1&co
+ ntent_id=_999_1
+END:VEVENT
+END:VCALENDAR
